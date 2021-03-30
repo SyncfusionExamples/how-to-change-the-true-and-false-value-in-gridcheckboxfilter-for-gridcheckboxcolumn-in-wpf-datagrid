@@ -1,9 +1,9 @@
 # How to change the True and False value in GridCheckBoxFilter for GridCheckBoxColumn in WPF DataGrid(SfDataGrid)?
 
 ## About the sample
-This example illustrates how to change the True and False value in GridCheckBoxFilter for GridCheckBoxColumn in WPF DataGrid(SfDataGrid)?
+This example illustrates how to change the True and False value in GridCheckBoxFilter for GridCheckBoxColumn in [WPF DataGrid](https://www.syncfusion.com/wpf-controls/datagrid) (SfDataGrid)?
 
-By default, SfDataGrid does not contain support for the change the resource key translates for the strings true and false in filter text. you can change the text displayed in the filter control customizing the CheckBoxFilterControl.ItemTemplate.
+[WPF DataGrid](https://www.syncfusion.com/wpf-controls/datagrid) (SfDataGrid) does not contain support for the change the resource key translates for True and False string in GridFilterControl. You can change this string by customizing the CheckBoxFilterControl.ItemTemplate.
 
 ```XML
 <syncfusion:GridCheckBoxColumn.FilterPopupStyle>
