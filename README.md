@@ -54,5 +54,7 @@ public class BoolConverter : IValueConverter
 }
 ```
 
+KB article - [How to change the True and False value in GridCheckBoxFilter for GridCheckBoxColumn in WPF DataGrid(SfDataGrid)?](https://www.syncfusion.com/kb/11424/how-to-change-the-true-and-false-value-in-gridcheckboxfilter-for-gridcheckboxcolumn-in-wpf)
+
 ## Requirements to run the demo
 Visual Studio 2015 and above versions
